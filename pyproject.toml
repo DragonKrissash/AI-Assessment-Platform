@@ -1,0 +1,15 @@
+[project]
+name = "ai-assessment-platform"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=1.2.12",
+    "langchain-classic>=1.0.3",
+    "langchain-community>=0.4.1",
+    "langchain-groq>=1.1.2",
+    "langchain-openai>=1.1.11",
+    "python-dotenv>=1.2.2",
+    "streamlit>=1.55.0",
+]
