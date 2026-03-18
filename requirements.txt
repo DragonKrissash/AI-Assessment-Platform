@@ -6,3 +6,13 @@ python-dotenv
 streamlit
 langchain_classic
 python-dotenv
+transformers
+accelerate 
+torch 
+torchvision 
+pillow
+diffusers
+elevenlabs
+sarvamai
+sounddevice
+scipy
