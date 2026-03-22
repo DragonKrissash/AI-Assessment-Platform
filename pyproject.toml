@@ -20,6 +20,7 @@ dependencies = [
     "scipy>=1.17.1",
     "sounddevice>=0.5.5",
     "streamlit>=1.55.0",
+    "streamlit-mic-recorder>=0.0.8",
     "torch>=2.10.0",
     "torchvision>=0.25.0",
     "transformers>=5.3.0",

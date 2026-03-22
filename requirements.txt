@@ -16,3 +16,4 @@ elevenlabs
 sarvamai
 sounddevice
 scipy
+streamlit-mic-recorder
